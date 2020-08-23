@@ -1,6 +1,6 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: yuills-Blog
+description: This is Yu-Ill home.
 logo: favicon.png
 url: ikongsong.com
 rss_url: /feed.xml
@@ -21,32 +21,30 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
-  # duoshuo: kongsong
-  # youyan: 2122392
-  # laibili: MTAyMC8yODgzNC81NDA0
+  disqus: YU-ILL
+  # duoshuo: YU-ILL
   gitalk: true
 
 # Website analytics
 google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777   
 
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong. This is my online home & blog, where I share thoughts about front-end development, cloud computing, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: Yu Ill     #the name of Blog section
+  about_me: I'm YU ILL. Im korean. This is my blog, where I share thoughts about Server development, hacking, other insteresting topics. Feel free to contact me by email if you have any question.
  
 # Social Links
-email:               hi@ikongsong.com
+email:               youwill0429@gmail.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            profile.php?id=100010200512204
+github:              yu-ill0429
+#stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:           kongsong
 #xing:              username
-#instagram:          username
+instagram:          yu.ill
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
